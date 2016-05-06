@@ -1,0 +1,9 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+  "go.formatTool": "goreturns",
+  "go.lintOnSave": true,
+  "go.vetOnSave": true,
+  "go.formatOnSave": true,
+  "go.useCodeSnippetsOnFunctionSuggest": true,
+  "go.gocodeAutoBuild": true
+}
